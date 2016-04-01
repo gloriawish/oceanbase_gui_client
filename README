@@ -4,11 +4,28 @@ Oceanbase gui client是一个针对Oceanbase数据库的可视化客户端，主
 http://blog.csdn.net/zhujunxxxxx/article/details/49837335
 当前很多数据库的管理工具都还不支持Oceanbase数据库，包括Navicat等都还不支持连接Oceanbase，所以为了方便对Oceanbase数据库的管理
 ##截图
-![image1](https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o1.PNG)
 
-![image2](https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o2.PNG)
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o1.PNG" width="600" /></div>
+<div style="text-align:center">图1</div>
 
-![image3](https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o3.PNG)
+
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o2.PNG" width="600" /></div>
+<div style="text-align:center">图2</div>
+
+
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o3.PNG" width="600" /></div>
+<div style="text-align:center">图3</div>
+
+
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o4.PNG" width="600" /></div>
+<div style="text-align:center">图4</div>
+
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o5.PNG" width="600" /></div>
+<div style="text-align:center">图5</div>
+
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o6.PNG" width="600" /></div>
+<div style="text-align:center">图6</div>
+
 
 
 ## 注意
