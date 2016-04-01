@@ -4,6 +4,12 @@ Oceanbase gui client是一个针对Oceanbase数据库的可视化客户端，主
 http://blog.csdn.net/zhujunxxxxx/article/details/49837335
 当前很多数据库的管理工具都还不支持Oceanbase数据库，包括Navicat等都还不支持连接Oceanbase，所以为了方便对Oceanbase数据库的管理
 ##截图
+![image1](https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o1.PNG)
+
+![image2](https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o2.PNG)
+
+![image3](https://raw.githubusercontent.com/zhujunxxxxx/oceanbase_desgin/master/o3.PNG)
+
 
 ## 注意
 本工具针对的数据库版本不是阿里开源的版本，我们的版本是支持多库的版本…,如果需要使用请对多数据库部分代码进行修改。
